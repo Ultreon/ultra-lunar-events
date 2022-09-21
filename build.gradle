@@ -19,7 +19,8 @@ group = 'com.ultreon.mods'
 
 version = "${mod_version}-${System.getenv("GITHUB_BUILD_NUMBER") == null ? "local" : System.getenv("GITHUB_BUILD_NUMBER")}"
 
-static Object getIngame_version() {
+@SuppressWarnings('GrMethodMayBeStatic')
+Object getIngame_version() {
     return "${mod_version}+${System.getenv("GITHUB_BUILD_NUMBER") == null ? "local" : System.getenv("GITHUB_BUILD_NUMBER")}"
 }
 java {

@@ -1,0 +1,11 @@
+{
+  "ultra_moons.name.ultra_blood_moon": "Ultra Blood Moon",
+  "ultra_moons.name.ultra_blue_moon": "Ultra Blue Moon",
+  "ultra_moons.name.ultra_harvest_moon": "Ultra Harvest Moon",
+  "ultra_moons.notification.ultra_blood_moon.rise": "The \"Ultra Blood Moon\" rises... Distant sounds of the undead can be heard...",
+  "ultra_moons.notification.ultra_blood_moon.set": "The \"Ultra Blood Moon\" sets... The undead begin to burn...",
+  "ultra_moons.notification.ultra_blue_moon.rise": "The \"Ultra Blue Moon\" rises... You feel very lucky!",
+  "ultra_moons.notification.ultra_blue_moon.set": "The \"Ultra Blue Moon\" sets... You don't feel very lucky anymore...",
+  "ultra_moons.notification.ultra_harvest_moon.rise": "The \"Ultra Harvest Moon\" rises... Your crops provide an exceptional harvest.",
+  "ultra_moons.notification.ultra_harvest_moon.set": "The \"Ultra Harvest Moon\" sets..."
+}
